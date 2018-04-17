@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kyu&#39;s Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Kyu&#39;s Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Apr 2018 14:49:41 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post3</title>
+      <link>http://example.org/posts/post3/</link>
+      <pubDate>Tue, 17 Apr 2018 14:49:41 -0400</pubDate>
+      
+      <guid>http://example.org/posts/post3/</guid>
+      <description>post 3!!</description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>http://example.org/posts/post2/</link>
+      <pubDate>Tue, 17 Apr 2018 14:49:35 -0400</pubDate>
+      
+      <guid>http://example.org/posts/post2/</guid>
+      <description>post 2</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Tue, 17 Apr 2018 14:36:22 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Hello! Welcome to my first post. -Kyu </description>
+    </item>
+    
+  </channel>
+</rss>
