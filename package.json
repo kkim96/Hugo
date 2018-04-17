@@ -1,0 +1,29 @@
+{
+  "name": "hugo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "surge": "latest",
+    "git-scripts": "0.2.1"
+    },
+    "git": {
+      "scripts": {
+        "pre-push": "./deploy.sh"
+      }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkim96/Hugo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkim96/Hugo/issues"
+  },
+  "homepage": "https://github.com/kkim96/Hugo#readme"
+}
