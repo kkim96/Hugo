@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/post3/</loc>
+    <loc>http://kkim-hugo.surge.sh/posts/post3/</loc>
     <lastmod>2018-04-17T14:49:41-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post2/</loc>
+    <loc>http://kkim-hugo.surge.sh/posts/post2/</loc>
     <lastmod>2018-04-17T14:49:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/getting-started/</loc>
+    <loc>http://kkim-hugo.surge.sh/getting-started/</loc>
     <lastmod>2018-04-17T14:42:25-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://kkim-hugo.surge.sh/about/</loc>
     <lastmod>2018-04-17T14:42:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>http://kkim-hugo.surge.sh/posts/my-first-post/</loc>
     <lastmod>2018-04-17T14:36:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://kkim-hugo.surge.sh/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://kkim-hugo.surge.sh/</loc>
     <lastmod>2018-04-17T14:49:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://kkim-hugo.surge.sh/posts/</loc>
     <lastmod>2018-04-17T14:49:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://kkim-hugo.surge.sh/tags/</loc>
     <priority>0</priority>
   </url>
   

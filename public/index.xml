@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyu&#39;s Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://kkim-hugo.surge.sh/</link>
     <description>Recent content on Kyu&#39;s Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Apr 2018 14:49:41 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kkim-hugo.surge.sh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post3</title>
-      <link>http://example.org/posts/post3/</link>
+      <link>http://kkim-hugo.surge.sh/posts/post3/</link>
       <pubDate>Tue, 17 Apr 2018 14:49:41 -0400</pubDate>
       
-      <guid>http://example.org/posts/post3/</guid>
+      <guid>http://kkim-hugo.surge.sh/posts/post3/</guid>
       <description>post 3!!</description>
     </item>
     
     <item>
       <title>Post2</title>
-      <link>http://example.org/posts/post2/</link>
+      <link>http://kkim-hugo.surge.sh/posts/post2/</link>
       <pubDate>Tue, 17 Apr 2018 14:49:35 -0400</pubDate>
       
-      <guid>http://example.org/posts/post2/</guid>
+      <guid>http://kkim-hugo.surge.sh/posts/post2/</guid>
       <description>post 2</description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>http://example.org/getting-started/</link>
+      <link>http://kkim-hugo.surge.sh/getting-started/</link>
       <pubDate>Tue, 17 Apr 2018 14:42:25 -0400</pubDate>
       
-      <guid>http://example.org/getting-started/</guid>
+      <guid>http://kkim-hugo.surge.sh/getting-started/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://kkim-hugo.surge.sh/about/</link>
       <pubDate>Tue, 17 Apr 2018 14:42:22 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://kkim-hugo.surge.sh/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://kkim-hugo.surge.sh/posts/my-first-post/</link>
       <pubDate>Tue, 17 Apr 2018 14:36:22 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://kkim-hugo.surge.sh/posts/my-first-post/</guid>
       <description>Hello! Welcome to my first post. -Kyu </description>
     </item>
     
